@@ -1,1 +1,2 @@
-# SyncTest
+# synchronousBallMovement
+Ball moving synchronously
